@@ -2,8 +2,6 @@
 
 # Blog-API Documentation
 
-Documented by [Dubem Obinna-Esiowu](https://github.com/Dubemobinna) - [LinkedIn](https://www.linkedin.com/in/dubemobinnaesiowu/) - [Twitter](https://twitter.com/thedocswriter)
-
 ## The basics
 
 The Blog API enables you to integrate the full functionality of a blog with your application by using the REST APIs. Applications can interact with the Blog API by sending and receiving data as JSON. The Blog API provides programmatic acess to data and functionality by allowing the `users` to `Post status`, `Post likes`, and do `comments`. 
